@@ -4,6 +4,11 @@ from scipy.stats import norm
 from scipy  import special
 from progressbar import * 
 
+####
+#Author Qing-Zeng Yan
+#An example of MCMC code to calculate distances with Gaia DR2 Ag
+####
+
 
 #constants
 nominator=np.sqrt(2) #*sigma
